@@ -1,6 +1,10 @@
+`python -c "import os;print(sum(os.path.getsize(f) for f in os.listdir('.') if os.path.isfile(f)), 'bytes')"`
+
+`read -p 'Repo git link: ' repolink;echo '[1] Cloning repo...';git clone $repolink repo &> /dev/null;echo ' Cloned repo';cd repo;echo '[2] Moving files...';mv {.,}* .. &>/dev/null;echo ' Moved files';cd ..;echo '[3] Removing parent directory...';rm -r repo;echo ' Removed parent directory'; echo 'repl repo initialization complete'`
+<!--
 ### Hi there 👋
 
-<!--
+
 **BlazerYoo/BlazerYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
