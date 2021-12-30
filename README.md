@@ -1,6 +1,6 @@
 `read -p 'Repo git link: ' repolink;echo '[1] Cloning repo...';git clone $repolink repo &> /dev/null;echo ' Cloned repo';cd repo;echo '[2] Moving files...';mv {.,}* .. &>/dev/null;echo ' Moved files';cd ..;echo '[3] Removing parent directory...';rm -r repo;echo ' Removed parent directory'; echo 'repl repo initialization complete'`
 
-[![HitCount](http://hits.dwyl.com/BlazerYoo/BlazerYoo.svg?style=flat-square)](http://hits.dwyl.com/BlazerYoo/BlazerYoo)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BlazerYoo.BlazerYoo&left_text=Views)
 
 <!--
 ### Hi there 👋
