@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BlazerYoo.BlazerYoo&left_text=Views)
+<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BlazerYoo.BlazerYoo&left_text=Views)-->
 
 <!--
 ### Hi there 👋
