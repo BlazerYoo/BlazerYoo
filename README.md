@@ -1,3 +1,5 @@
+VS Code auto format: `Shift + Alt + F`
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BlazerYoo.BlazerYoo&left_text=Views)
 
 <!--
