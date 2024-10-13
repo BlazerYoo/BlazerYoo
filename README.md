@@ -1,4 +1,5 @@
 VS Code auto format: `Shift + Alt + F`
+Docker: docker run -it -v ~/:/home rust sh
 
 <!--
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BlazerYoo.BlazerYoo&left_text=Views)
