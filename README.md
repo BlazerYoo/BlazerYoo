@@ -5,6 +5,8 @@ Docker: -->
 
 `docker start -ai my-container`
 
+`git clone --single-branch --branch main repo-url`
+
 <!--
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BlazerYoo.BlazerYoo&left_text=Views)
 ### Hi there 👋
