@@ -7,6 +7,8 @@ Docker: -->
 
 `git clone --single-branch --branch main repo-url`
 
+`sudo mount -t drvfs G: /mnt/g`
+
 <!--
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BlazerYoo.BlazerYoo&left_text=Views)
 ### Hi there 👋
