@@ -9,6 +9,8 @@ Docker: -->
 
 `sudo mount -t drvfs G: /mnt/g`
 
+`docker run -it --rm -v $(pwd):/app python-uv:latest`
+
 <!--
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BlazerYoo.BlazerYoo&left_text=Views)
 ### Hi there 👋
