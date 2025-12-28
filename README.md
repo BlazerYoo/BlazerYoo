@@ -11,6 +11,8 @@ Docker: -->
 
 `docker run -it --rm -v $(pwd):/app python-uv:latest`
 
+`sudo chown -R $USER:$USER .`
+
 <!--
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BlazerYoo.BlazerYoo&left_text=Views)
 ### Hi there 👋
