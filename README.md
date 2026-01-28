@@ -5,8 +5,6 @@ Docker: -->
 
 `docker start -ai my-container`
 
-`git clone --single-branch --branch main repo-url`
-
 `sudo mount -t drvfs G: /mnt/g`
 
 `docker run -it --rm -v $(pwd):/app python-uv:latest`
