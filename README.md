@@ -11,6 +11,8 @@ Docker: -->
 
 `sudo chown -R $USER:$USER .`
 
+`git reset --mixed HEAD~3`
+
 <!--
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BlazerYoo.BlazerYoo&left_text=Views)
 ### Hi there 👋
