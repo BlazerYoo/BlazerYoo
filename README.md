@@ -5,6 +5,8 @@ Docker: -->
 
 `docker start -ai my-container`
 
+`sudo mkdir -p /mnt/g`
+
 `sudo mount -t drvfs G: /mnt/g`
 
 `docker run -it --rm -v $(pwd):/app python-uv:latest`
