@@ -17,6 +17,8 @@ Docker: -->
 
 `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36`
 
+`python -m http.server 8000`
+
 <!--
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BlazerYoo.BlazerYoo&left_text=Views)
 ### Hi there 👋
